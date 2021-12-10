@@ -1,0 +1,31 @@
+***First idea:
+Cryptocurrency-- stock activity using spotify and twitter
+Check twitter and if something happens, you buy and if something happens you sell 
+Sad music around Wall Street
+
+Lyric analysis (both using Python): https://towardsdatascience.com/how-to-analyze-emotions-and-words-of-the-lyrics-from-your-favorite-music-artist-bbca10411283
+
+https://towardsdatascience.com/predicting-the-music-mood-of-a-song-with-deep-learning-c3ac2b45229e 
+
+This app puts a creative spin on financial advisory. It will use regional data from Spotify on and around Wall St. 
+(or across any financial districts) to determine the most-listened to songs. 
+It will perform sentiment analysis on the songs by extracting their genres and key words from the lyrics. 
+In addition, it will extract keywords from top tweets that day, perhaps from top financial gurus or CEOs. 
+It will correlate these genres and lyrics with moods and will then recommend a certain stock action (i.e. buying or selling a certain stock). 
+
+Pseudo quant software
+
+**Second idea: 
+
+Student inputs location and app returns recommended places to eat based on bus schedule and “what’s open” (API from BU Dining)
+
+This app recommends BU students nearby on-campus places to eat, using BU bus schedules and a list of open BU dining facilities. 
+After the user logs in using his or her BU ID, it will take the user’s location and recommend the quickest BU bus routes to nearest 
+BU dining facilities that are open based on the BU Dining API “What’s Open.”
+
+*Third idea:
+
+Students input account information for his amazon, walmart, farfetch account(all in one account).
+
+This app grabs all those shopify websites’ order status info together: make it convenient for students to see everything on one platform.
+Receiving all updated order status information from those shopify websites makes it clear for users.
